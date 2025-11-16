@@ -6,4 +6,4 @@ This project is tied to the [Building a Quantum Cipher tutorial series](https://
 Please check out the tutorial for guidance on tools, setup, and step-by-step instructions using **Python**, **Qiskit**, **Jupyter Notebooks**, and **VS Code**.
 
 If you have any questions or concerns regarding the project, feel free to reach out.  
-Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/joseph-soileau)
+Connect with me on LinkedIn: [Joe-Soileau](https://www.linkedin.com/in/joseph-soileau)
